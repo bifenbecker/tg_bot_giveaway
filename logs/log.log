@@ -1,0 +1,4 @@
+2023-06-26 16:31:42.864 | INFO     | aiogram.utils.executor:_welcome:362 - Bot: Realluckbot [@Realluckgive_bot]
+2023-06-26 16:31:44.046 | WARNING  | aiogram.utils.executor:_skip_updates:358 - Updates were skipped successfully.
+2023-06-26 16:31:44.190 | INFO     | tortoise:close_connections:637 - Tortoise-ORM shutdown
+2023-06-26 16:31:44.191 | WARNING  | aiogram.utils.executor:start_polling:329 - Goodbye!

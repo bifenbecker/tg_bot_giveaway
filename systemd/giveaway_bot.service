@@ -1,0 +1,13 @@
+[Unit]
+Description=GiveAway bot
+After=network.target
+
+[Service]
+User=root
+WorkingDirectory=/opt/GiveAway2/GiveAway2/
+ExecStart=/usr/bin/python3.9 /opt/GiveAway2/GiveAway2/start.py
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target
